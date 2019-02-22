@@ -18,4 +18,4 @@ Top performing teams will also be eligible to compete for the special prize. Add
 Acknowledgements
 The Human Protein Atlas is a Sweden-based initiative aimed at mapping all human proteins in cells, tissues and organs. All the data in the knowledge resource is open access to allow anyone to pursue exploration of the human proteome. In a recent publication, the Human Protein Atlas team has demonstrated the promise of both citizen science and artificial intelligence approaches in describing the location of human proteins in images, however current results are yet to approach expert-level annotations ([Sullivan et al, Nature Biotechnology, Oct 2018](https://www.nature.com/articles/nbt.4225)).
 
-![]()
+![](https://github.com/MinuteswithMetrics/Human-Protein-Atlas-Image-Classification/blob/master/__results___63_0.png)
